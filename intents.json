@@ -1,0 +1,153 @@
+{
+  "intents": [
+    {
+      "intent": "resume_builder_overview",
+      "examples": [
+        "How do I create my resume?",
+        "Can you help me build my student resume?",
+        "What should I include in my student resume?",
+        "I need help building a resume for an internship."
+      ],
+      "responses": [
+        "A resume builder helps you create a professional resume, highlighting your education, skills, internships, projects, and other experiences. As a student, your focus will likely be on your education, skills, internships, and extracurricular activities. Start with your personal details, followed by education, and then build on your experience."
+      ]
+    },
+    {
+      "intent": "resume_builder_personal_info",
+      "examples": [
+        "Where do I add my personal details?",
+        "How do I enter my name and contact information?",
+        "What should I include in the contact section?",
+        "How do I add my phone number and email?"
+      ],
+      "responses": [
+        "In the personal information section, include your full name, phone number, email address, and any social media or professional profiles like LinkedIn. Your contact info should be visible at the top of your resume. Ensure your email is professional, and if possible, provide a link to your LinkedIn profile or personal website."
+      ]
+    },
+    {
+      "intent": "resume_builder_education",
+      "examples": [
+        "How should I list my education on the resume?",
+        "What information should I include about my school?",
+        "How do I add my degree and graduation year?",
+        "Should I include my GPA or specific coursework?"
+      ],
+      "responses": [
+        "For the education section, list your current or most recent school first. Include your degree (e.g., Bachelor of Science in Computer Science), the name of the institution, and your expected or completed graduation year. If you've completed any significant coursework relevant to the job, mention it too. If your GPA is 3.5 or higher, consider including it. Include honors, awards, or scholarships if applicable."
+      ]
+    },
+    {
+      "intent": "resume_builder_skills",
+      "examples": [
+        "What skills should I include in my student resume?",
+        "How do I list my skills?",
+        "Should I add both technical and soft skills?",
+        "What are the best skills for a resume?"
+      ],
+      "responses": [
+        "List both technical skills (e.g., programming languages, software tools, design skills) and soft skills (e.g., communication, teamwork, leadership). Be sure to highlight the skills that are most relevant to the job or internship you're applying for. Use specific keywords from the job description to tailor your skills section."
+      ]
+    },
+    {
+      "intent": "resume_builder_internships",
+      "examples": [
+        "How do I list my internship experience?",
+        "What should I mention about my internships?",
+        "Should I include unpaid internships?",
+        "How do I describe my internship responsibilities?"
+      ],
+      "responses": [
+        "In the internship section, list any internships or part-time jobs you’ve had, including the company name, role, duration, and a brief description of your responsibilities. Even unpaid internships are valuable. Focus on what you learned, the skills you gained, and any measurable outcomes or projects you worked on."
+      ]
+    },
+    {
+      "intent": "resume_builder_projects",
+      "examples": [
+        "How do I add my projects to my resume?",
+        "Should I list my personal or academic projects?",
+        "How do I explain my projects?"
+      ],
+      "responses": [
+        "In the projects section, list any relevant academic or personal projects. Include a brief description of the project, the skills you used, and any outcomes or results. If possible, link to the project on GitHub, your portfolio, or another platform to showcase your work. Be sure to mention any collaborative projects and leadership roles you held."
+      ]
+    },
+    {
+      "intent": "resume_builder_extracurricular_activities",
+      "examples": [
+        "How should I list my extracurricular activities?",
+        "Should I add volunteer work to my resume?",
+        "What extracurriculars are worth adding?",
+        "How do I show leadership in extracurriculars?"
+      ],
+      "responses": [
+        "Extracurricular activities, such as volunteering, clubs, sports, or leadership roles, are important to include as they show your involvement, teamwork, and initiative. List any positions you held, your responsibilities, and any achievements. For leadership roles, be specific about your contributions and how you led teams or events."
+      ]
+    },
+    {
+      "intent": "resume_builder_formatting_tips",
+      "examples": [
+        "How should I format my student resume?",
+        "What format should I use for my resume?",
+        "Can you give me formatting tips for my resume?"
+      ],
+      "responses": [
+        "Keep your resume clean, simple, and easy to read. Use a professional font like Arial or Calibri, and keep the font size between 10-12 points. Use bullet points for responsibilities and accomplishments. Keep sections well-organized with clear headings like 'Education', 'Skills', 'Internships', etc. One-page resumes are ideal for students unless you have extensive experience."
+      ]
+    },
+    {
+      "intent": "resume_builder_final_tips",
+      "examples": [
+        "What final tips do you have for building my student resume?",
+        "Can you give me some advice before I finish my resume?",
+        "What are the key things to check before submitting my resume?"
+      ],
+      "responses": [
+        "Before finalizing your resume, make sure it’s tailored to the specific job or internship you’re applying for. Proofread for errors and ensure your resume is well-organized. Get feedback from a mentor or career advisor, and make sure your contact details are correct. Use action verbs and quantify achievements where possible."
+      ]
+    },
+    {
+      "intent": "resume_builder_export_download",
+      "examples": [
+        "How do I download my resume?",
+        "Can I save my resume in PDF format?",
+        "How do I export my completed resume?"
+      ],
+      "responses": [
+        "Once you're happy with your resume, most resume builders allow you to download it in formats like PDF or DOCX. Simply click on the 'Download' button, choose your preferred format, and save it to your device. PDFs are preferred for job applications as they preserve formatting."
+      ]
+    },
+    {
+      "intent": "resume_builder_achievements",
+      "examples": [
+        "How should I list achievements in my resume?",
+        "Where should I mention awards and honors?",
+        "What achievements are worth adding to my resume?"
+      ],
+      "responses": [
+        "In the achievements section, list any awards, honors, or special recognitions you have received. This can include academic achievements, scholarship awards, or special distinctions like 'Employee of the Month' during an internship. These demonstrate your excellence and distinguish you from other candidates."
+      ]
+    },
+    {
+      "intent": "resume_builder_certifications",
+      "examples": [
+        "Should I list certifications on my resume?",
+        "How do I add certifications to my resume?",
+        "Where do I include my professional certifications?"
+      ],
+      "responses": [
+        "Yes, list any certifications that are relevant to the job you’re applying for. This could include technical certifications (e.g., coding certifications), soft skills training, or any other professional development courses. Place this section towards the end, after experience and education, unless the certification is directly relevant to the role."
+      ]
+    },
+    {
+      "intent": "resume_builder_languages",
+      "examples": [
+        "Should I list my language skills?",
+        "Where do I add language proficiency on my resume?",
+        "How should I mention foreign languages?"
+      ],
+      "responses": [
+        "If you speak more than one language, it’s worth adding a 'Languages' section. Include your proficiency level (e.g., fluent, intermediate, basic). This section can help you stand out, especially for global companies or roles requiring bilingual skills."
+      ]
+    }
+  ]
+}
